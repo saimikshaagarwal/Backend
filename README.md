@@ -25,3 +25,5 @@ Real-time fish tracking with GPS, multilingual support, AI chatbot assistance, a
 -  **GPS Integration** – For real-time location tracking and navigation.
 -  **Web3 Wallet Connection**-To obtain the user’s accurate wallet address and for client side personalization.
 
+## Link
+https://fishermancompass.netlify.app/
